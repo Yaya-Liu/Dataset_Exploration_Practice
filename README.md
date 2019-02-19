@@ -1,5 +1,8 @@
 # Dataset_Exploration_Practice
 
+"Every messy dataset is messy in its own way". The purpose of this project is to practice on data clean, including data normalization and how to deal with missing values.
+
+
 Data source:
 https://web.archive.org/web/20080921102626/http://www.aoml.noaa.gov/hrd/hurdat/ushurrlist18512007.txt
 
